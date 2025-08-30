@@ -1,16 +1,11 @@
-# flutter_local_storage_ex
+# Ahmed Elsapagh
 
-A new Flutter project.
+Welcome to my GitHub profile!  
 
-## Getting Started
+This GitHub profile is owned and maintained by **Ahmed Elsapagh**.  
+All content and videos are created to help the community grow and improve their coding skills.
 
-This project is a starting point for a Flutter application.
+## 📬 Contact
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **YouTube:** [@ahmed_elsapagh](https://www.youtube.com/@ahmed_elsapagh)
+- **GitHub:** [Ahmedelsapagh10](https://github.com/Ahmedelsapagh10)
